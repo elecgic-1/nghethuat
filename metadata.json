@@ -1,0 +1,6 @@
+{
+  "name": "Khám phá các loại hình nghệ thuật",
+  "description": "Trò chơi khám phá các loại hình nghệ thuật dành cho 6 đội chơi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
